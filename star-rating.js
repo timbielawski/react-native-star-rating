@@ -6,8 +6,8 @@ import {
 
 import React, {
   Component,
-  PropTypes,
 } from 'react';
+import PropTypes from 'prop-types'
 
 // Local file imports
 import StarButton from './star-button';
